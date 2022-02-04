@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.conatainer{
+    padding: 40px;
+    margin: 20px;
+    width: 50%;
+}
+
+#error{
+    color: red;
+} 
+
